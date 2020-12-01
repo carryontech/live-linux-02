@@ -1,2 +1,1 @@
-# live-linux-02
-# Instalando o Squid
+# live-linux-02 - Instalando o Squid
